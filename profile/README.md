@@ -5,13 +5,13 @@
 [![中文](https://img.shields.io/badge/%E5%88%87%E6%8D%A2-%E4%B8%AD%E6%96%87%E4%B8%BB%E9%A1%B5-0ea5e9?style=for-the-badge)](#中文主页)
 [![English](https://img.shields.io/badge/Switch-English%20Profile-111827?style=for-the-badge)](#english-profile)
 
-![Maishan Inc Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0b7285,50:0891b2,75:f97316,100:db2777&height=260&section=header&text=Maishan%20Inc&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E5%BC%80%E6%BA%90%E4%BA%A7%E5%93%81%20%7C%20%E7%8E%B0%E4%BB%A3%E5%B7%A5%E7%A8%8B%20%7C%20%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%90%8E%E7%AB%AF%E7%B3%BB%E7%BB%9F&descAlignY=58)
+<img src="./assets/banner-zh.svg" alt="Maishan Inc 中文横幅" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1300&color=38BDF8&center=true&vCenter=true&width=980&lines=%E6%89%93%E9%80%A0%E5%AE%9E%E7%94%A8%E4%B8%94%E7%82%AB%E9%85%B7%E7%9A%84%E5%BC%80%E6%BA%90%E4%BA%A7%E5%93%81;Golang+%7C+PHP+%7C+Node.js+%7C+Next.js+%7C+React+%7C+Vue;JavaScript+%7C+TypeScript+%7C+Python;MySQL+%7C+PostgreSQL+%7C+Supabase)](https://github.com/Maishan-Inc)
 
 ![](https://komarev.com/ghpvc/?username=Maishan-Inc&style=for-the-badge&color=0ea5e9)
 ![](https://img.shields.io/github/followers/Maishan-Inc?style=for-the-badge&color=16a34a)
-![](https://img.shields.io/github/stars/Maishan-Inc?style=for-the-badge&color=f59e0b)
+![](https://img.shields.io/badge/Blog-Developing-0f766e?style=for-the-badge)
 
 </div>
 
@@ -19,36 +19,77 @@
 
 ## Maishan Inc
 
-> 专注开源、工程效率与现代化 Web 基础设施构建。
+> 专注开源产品、现代工程与网络后端系统。
 
-Maishan Inc 致力于打造真正可用的开源产品，覆盖邮件系统、搜索工具、自动化平台、Web 应用与后端服务。  
-既关注交付速度，也强调系统质量、可扩展性与长期维护能力。
+Maishan Inc 致力于打造真正能落地的开源产品，覆盖邮件系统、搜索工具、自动化平台、Web 应用与后端服务。  
+以工程质量为基础，以交付效率为驱动，在真实业务场景里持续迭代。
+
+## 联系方式
+
+<div align="center">
+
+[![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-maishanzero.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.maishanzero.com)
+[![X](https://img.shields.io/badge/X-@MaishanInc-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MaishanInc)
+[![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.maishanzero.com-f97316?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.maishanzero.com/)
+[![支持邮箱](https://img.shields.io/badge/%E6%94%AF%E6%8C%81%E9%82%AE%E7%AE%B1-support%40maishanzero.com-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@maishanzero.com)
+[![中国大陆区](https://img.shields.io/badge/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%8C%BA-maishanemail%40qq.com-1d4ed8?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:maishanemail@qq.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%E5%BC%80%E5%8F%91%E4%B8%AD-0f766e?style=for-the-badge&logo=telegram&logoColor=white)](https://www.maishanzero.com)
+
+</div>
+
+- 官网：https://www.maishanzero.com
+- X：https://x.com/MaishanInc
+- 博客：https://blog.maishanzero.com/（开发中）
+- 支持邮箱：support@maishanzero.com
+- 中国大陆区：maishanemail@qq.com
+- Telegram：开发中
 
 ## 技术版图
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=go,php,nodejs,nextjs,js,ts,react,vue,python,mysql,postgres)](https://github.com/Maishan-Inc)
+[![Tech Stack](https://skillicons.dev/icons?i=go,php,nodejs,nextjs,js,ts,react,vue,python,mysql,postgres,supabase&perline=6)](https://github.com/Maishan-Inc)
 
 </div>
 
-### 语言与框架
+Golang · PHP · Node.js · Next.js · JavaScript · TypeScript · React · Vue · Python · MySQL · PostgreSQL · Supabase
 
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## 公司成员介绍
 
-### 数据库与平台
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Maishan-SecauDit">
+        <img src="https://github.com/Maishan-SecauDit.png?size=120" width="96" height="96" alt="SecauDit" /><br />
+        <strong>SecauDit</strong>
+      </a><br />
+      <sub>安全与审计部门主管</sub><br />
+      <sub><code>secaudit@maishanzero.com</code></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/raininlab">
+        <img src="https://github.com/raininlab.png?size=120" width="96" height="96" alt="Raininlab" /><br />
+        <strong>Raininlab</strong>
+      </a><br />
+      <sub>信任与安全部门主管</sub><br />
+      <sub><code>github.com/raininlab</code></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/CHUNXIAOKO">
+        <img src="https://github.com/CHUNXIAOKO.png?size=120" width="96" height="96" alt="CHUN XIAO KO" /><br />
+        <strong>CHUN XIAO KO</strong>
+      </a><br />
+      <sub>基础设施运营部门主管</sub><br />
+      <sub><code>github.com/CHUNXIAOKO</code></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/freeanime-avatar.svg" width="96" height="96" alt="Freeanime.org" /><br />
+      <strong>Freeanime.org</strong><br />
+      <sub>组织与域名持有者</sub><br />
+      <sub><code>Organization Owner</code></sub>
+    </td>
+  </tr>
+</table>
 
 ## 开源项目
 
@@ -79,24 +120,9 @@ Maishan Inc 致力于打造真正可用的开源产品，覆盖邮件系统、�
 - `MIT`：适合简洁宽松、开发者友好的开源项目
 - `Apache-2.0`：适合需要专利授权说明的宽松型项目
 
-## GitHub 图谱
+## 愿景
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maishan-Inc&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maishan-Inc&layout=compact&hide_border=true&theme=transparent" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maishan-Inc&bg_color=ffffff00&color=38bdf8&line=14b8a6&point=f97316&area=true&hide_border=true" />
-</div>
-
-## 标语
-
-<div align="center">
-
-`做有价值的软件` `交付能落地的产品` `持续开源`
-
-</div>
+> 争取成为 WEB3 时代优秀的初创公司。
 
 <div align="center">
 
@@ -108,38 +134,98 @@ Maishan Inc 致力于打造真正可用的开源产品，覆盖邮件系统、�
 
 <a id="english-profile"></a>
 
+<div align="center">
+  <img src="./assets/banner-en.svg" alt="Maishan Inc English Banner" width="100%" />
+</div>
+
 ## English Profile
 
-> Building practical open-source products with modern engineering and scalable systems.
+> Focused on open-source products, modern engineering, and network backend systems.
 
-Maishan Inc builds software across email systems, search products, automation workflows, web applications, and backend infrastructure.  
-The focus is simple: fast delivery, maintainable code, and products that work in real environments.
+Maishan Inc builds practical software across email systems, search tools, automation workflows, web applications, and backend infrastructure.  
+The goal is clear: ship faster, engineer better, and keep products useful in real operating environments.
 
-### Stack
+## Contact
 
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<div align="center">
 
-### Featured Repositories
+[![Website](https://img.shields.io/badge/Website-maishanzero.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.maishanzero.com)
+[![X](https://img.shields.io/badge/X-@MaishanInc-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MaishanInc)
+[![Blog](https://img.shields.io/badge/Blog-blog.maishanzero.com-f97316?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.maishanzero.com/)
+[![Support Email](https://img.shields.io/badge/Support-support%40maishanzero.com-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@maishanzero.com)
+[![Mainland China](https://img.shields.io/badge/Mainland%20China-maishanemail%40qq.com-1d4ed8?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:maishanemail@qq.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Coming%20Soon-0f766e?style=for-the-badge&logo=telegram&logoColor=white)](https://www.maishanzero.com)
+
+</div>
+
+- Website: https://www.maishanzero.com
+- X: https://x.com/MaishanInc
+- Blog: https://blog.maishanzero.com/ (under development)
+- Support: support@maishanzero.com
+- Mainland China: maishanemail@qq.com
+- Telegram: coming soon
+
+## Technology
+
+<div align="center">
+
+[![Tech Stack](https://skillicons.dev/icons?i=go,php,nodejs,nextjs,js,ts,react,vue,python,mysql,postgres,supabase&perline=6)](https://github.com/Maishan-Inc)
+
+</div>
+
+Golang · PHP · Node.js · Next.js · JavaScript · TypeScript · React · Vue · Python · MySQL · PostgreSQL · Supabase
+
+## Team
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Maishan-SecauDit">
+        <img src="https://github.com/Maishan-SecauDit.png?size=120" width="96" height="96" alt="SecauDit" /><br />
+        <strong>SecauDit</strong>
+      </a><br />
+      <sub>Head of Security and Audit</sub><br />
+      <sub><code>secaudit@maishanzero.com</code></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/raininlab">
+        <img src="https://github.com/raininlab.png?size=120" width="96" height="96" alt="Raininlab" /><br />
+        <strong>Raininlab</strong>
+      </a><br />
+      <sub>Head of Trust and Safety</sub><br />
+      <sub><code>github.com/raininlab</code></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/CHUNXIAOKO">
+        <img src="https://github.com/CHUNXIAOKO.png?size=120" width="96" height="96" alt="CHUN XIAO KO" /><br />
+        <strong>CHUN XIAO KO</strong>
+      </a><br />
+      <sub>Head of Infrastructure Operations</sub><br />
+      <sub><code>github.com/CHUNXIAOKO</code></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/freeanime-avatar.svg" width="96" height="96" alt="Freeanime.org" /><br />
+      <strong>Freeanime.org</strong><br />
+      <sub>Organization and Domain Holder</sub><br />
+      <sub><code>Organization Owner</code></sub>
+    </td>
+  </tr>
+</table>
+
+## Open Source Projects
 
 - [Microsoft-Email-Manager](https://github.com/Maishan-Inc/Microsoft-Email-Manager)
 - [Limitless-search](https://github.com/Maishan-Inc/Limitless-search)
 
-### Preferred Licenses
+## Preferred Licenses
 
 - `CC BY-NC 4.0`
 - `MIT`
 - `Apache-2.0`
+
+## Vision
+
+> Striving to become an outstanding startup in the Web3 era.
 
 <div align="center">
 

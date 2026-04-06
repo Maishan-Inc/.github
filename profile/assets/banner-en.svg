@@ -1,0 +1,110 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 84) rotate(16) scale(1240 560)">
+      <stop offset="0" stop-color="#0B2B3F"/>
+      <stop offset="0.56" stop-color="#082636"/>
+      <stop offset="1" stop-color="#06212E"/>
+    </radialGradient>
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="1030" y1="60" x2="1490" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0.04"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#38BDF8" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.8" fill="#67E8F9" fill-opacity="0.28"/>
+    </pattern>
+    <filter id="blurLarge" x="-320" y="-320" width="2240" height="1060" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="74"/>
+    </filter>
+    <filter id="blurSmall" x="-140" y="-140" width="1880" height="700" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <filter id="softShadow" x="980" y="34" width="548" height="332" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="420" rx="28" fill="url(#grid)"/>
+  <rect width="1600" height="420" rx="28" fill="url(#dots)"/>
+
+  <g filter="url(#blurLarge)">
+    <circle cx="230" cy="92" r="188" fill="#2563EB" fill-opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 18; 0 -12; 0 0" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="188;202;194;188" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1325" cy="316" r="206" fill="#22D3EE" fill-opacity="0.42">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -20; 0 12; 0 0" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="206;222;210;206" dur="15s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g filter="url(#blurSmall)">
+    <circle cx="1110" cy="118" r="84" fill="#38BDF8" fill-opacity="0.18"/>
+    <circle cx="520" cy="338" r="96" fill="#0EA5E9" fill-opacity="0.12"/>
+  </g>
+
+  <g opacity="0.92">
+    <path d="M52 56H224L264 96V150" stroke="url(#lineGlow)" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="52" cy="56" r="4.5" fill="#67E8F9"/>
+    <circle cx="224" cy="56" r="4.5" fill="#67E8F9"/>
+    <circle cx="264" cy="96" r="4.5" fill="#67E8F9"/>
+    <circle cx="264" cy="150" r="4.5" fill="#67E8F9"/>
+  </g>
+
+  <g opacity="0.96">
+    <path d="M1544 362H1386L1318 296V232" stroke="url(#lineGlow)" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="1544" cy="362" r="4.5" fill="#67E8F9"/>
+    <circle cx="1386" cy="362" r="4.5" fill="#67E8F9"/>
+    <circle cx="1318" cy="296" r="4.5" fill="#67E8F9"/>
+    <circle cx="1318" cy="232" r="4.5" fill="#67E8F9"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="1012" y="58" width="484" height="276" rx="26" fill="url(#panel)" stroke="#67E8F9" stroke-opacity="0.16"/>
+    <rect x="1042" y="90" width="168" height="36" rx="18" fill="#0F172A" fill-opacity="0.34" stroke="#67E8F9" stroke-opacity="0.18"/>
+    <text x="1072" y="114" fill="#E2F6FF" font-family="Segoe UI, sans-serif" font-size="18" font-weight="600">Tech Matrix</text>
+    <g fill="#E0F2FE" font-family="Segoe UI, sans-serif" font-size="22" font-weight="600">
+      <text x="1060" y="174">Golang</text>
+      <text x="1224" y="174">Node.js</text>
+      <text x="1364" y="174">Next.js</text>
+      <text x="1060" y="220">React</text>
+      <text x="1200" y="220">Vue</text>
+      <text x="1310" y="220">Python</text>
+      <text x="1060" y="266">MySQL</text>
+      <text x="1218" y="266">PostgreSQL</text>
+      <text x="1400" y="266">Supabase</text>
+    </g>
+    <g fill="#22D3EE">
+      <circle cx="1040" cy="166" r="5"/>
+      <circle cx="1204" cy="166" r="5"/>
+      <circle cx="1344" cy="166" r="5"/>
+      <circle cx="1040" cy="212" r="5"/>
+      <circle cx="1180" cy="212" r="5"/>
+      <circle cx="1290" cy="212" r="5"/>
+      <circle cx="1040" cy="258" r="5"/>
+      <circle cx="1198" cy="258" r="5"/>
+      <circle cx="1380" cy="258" r="5"/>
+    </g>
+  </g>
+
+  <g fill="#F8FAFC" font-family="Segoe UI, sans-serif">
+    <text x="102" y="152" font-size="66" font-weight="700" letter-spacing="1">Maishan Inc</text>
+    <text x="104" y="214" font-size="28" font-weight="600" fill="#C7F0FF">Open Source Products | Modern Engineering | Network &amp; Backend Systems</text>
+    <text x="104" y="258" font-size="20" font-weight="500" fill="#93C5FD">Building practical, scalable and maintainable digital products</text>
+  </g>
+
+  <rect x="102" y="300" width="148" height="40" rx="20" fill="#0EA5E9" fill-opacity="0.16" stroke="#38BDF8" stroke-opacity="0.28"/>
+  <rect x="266" y="300" width="132" height="40" rx="20" fill="#06B6D4" fill-opacity="0.14" stroke="#67E8F9" stroke-opacity="0.22"/>
+  <rect x="414" y="300" width="170" height="40" rx="20" fill="#0F172A" fill-opacity="0.28" stroke="#38BDF8" stroke-opacity="0.18"/>
+  <text x="132" y="326" fill="#E0F2FE" font-family="Segoe UI, sans-serif" font-size="18" font-weight="600">Open Source</text>
+  <text x="297" y="326" fill="#E0F2FE" font-family="Segoe UI, sans-serif" font-size="18" font-weight="600">Web Stack</text>
+  <text x="446" y="326" fill="#E0F2FE" font-family="Segoe UI, sans-serif" font-size="18" font-weight="600">Data Infrastructure</text>
+</svg>
