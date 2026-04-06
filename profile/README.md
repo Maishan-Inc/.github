@@ -5,7 +5,7 @@
 [![中文](https://img.shields.io/badge/%E5%88%87%E6%8D%A2-%E4%B8%AD%E6%96%87%E4%B8%BB%E9%A1%B5-0ea5e9?style=for-the-badge)](#中文主页)
 [![English](https://img.shields.io/badge/Switch-English%20Profile-111827?style=for-the-badge)](#english-profile)
 
-<img src="./assets/banner-zh.svg" alt="Maishan Inc 中文横幅" width="100%" />
+<img src="./assets/banner-zh.svg" alt="Maishan Inc. 中文横幅" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1300&color=38BDF8&center=true&vCenter=true&width=980&lines=%E6%89%93%E9%80%A0%E5%AE%9E%E7%94%A8%E4%B8%94%E7%82%AB%E9%85%B7%E7%9A%84%E5%BC%80%E6%BA%90%E4%BA%A7%E5%93%81;Golang+%7C+PHP+%7C+Node.js+%7C+Next.js+%7C+React+%7C+Vue;JavaScript+%7C+TypeScript+%7C+Python;MySQL+%7C+PostgreSQL+%7C+Supabase)](https://github.com/Maishan-Inc)
 
@@ -17,11 +17,11 @@
 
 <a id="中文主页"></a>
 
-## Maishan Inc
+## Maishan Inc.
 
 > 专注开源产品、现代工程与网络后端系统。
 
-Maishan Inc 致力于打造真正能落地的开源产品，覆盖邮件系统、搜索工具、自动化平台、Web 应用与后端服务。  
+Maishan Inc. 致力于打造真正能落地的开源产品，覆盖邮件系统、搜索工具、自动化平台、Web 应用与后端服务。  
 以工程质量为基础，以交付效率为驱动，在真实业务场景里持续迭代。
 
 ## 联系方式
@@ -63,30 +63,45 @@ Golang · PHP · Node.js · Next.js · JavaScript · TypeScript · React · Vue 
         <img src="https://github.com/Maishan-SecauDit.png?size=120" width="96" height="96" alt="SecauDit" /><br />
         <strong>SecauDit</strong>
       </a><br />
-      <sub>安全与审计部门主管</sub><br />
-      <sub><code>secaudit@maishanzero.com</code></sub>
+      <img alt="安全与审计" src="https://img.shields.io/badge/%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AE%A1%E8%AE%A1-0f766e?style=flat-square" /><br />
+      <sub>负责安全审计、风险排查与开源项目安全基线建设。</sub><br /><br />
+      <a href="mailto:secaudit@maishanzero.com">
+        <img alt="Email SecauDit" src="https://img.shields.io/badge/Email-secaudit%40maishanzero.com-334155?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a><br />
+      <a href="https://github.com/Maishan-SecauDit">
+        <img alt="GitHub SecauDit" src="https://img.shields.io/badge/GitHub-Maishan--SecauDit-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/raininlab">
         <img src="https://github.com/raininlab.png?size=120" width="96" height="96" alt="Raininlab" /><br />
         <strong>Raininlab</strong>
       </a><br />
-      <sub>信任与安全部门主管</sub><br />
-      <sub><code>github.com/raininlab</code></sub>
+      <img alt="信任与安全" src="https://img.shields.io/badge/%E4%BF%A1%E4%BB%BB%E4%B8%8E%E5%AE%89%E5%85%A8-0369a1?style=flat-square" /><br />
+      <sub>负责信任治理、内容安全与组织协作安全机制设计。</sub><br /><br />
+      <a href="https://github.com/raininlab">
+        <img alt="GitHub Raininlab" src="https://img.shields.io/badge/GitHub-raininlab-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/CHUNXIAOKO">
         <img src="https://github.com/CHUNXIAOKO.png?size=120" width="96" height="96" alt="CHUN XIAO KO" /><br />
         <strong>CHUN XIAO KO</strong>
       </a><br />
-      <sub>基础设施运营部门主管</sub><br />
-      <sub><code>github.com/CHUNXIAOKO</code></sub>
+      <img alt="基础设施运营" src="https://img.shields.io/badge/%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E8%BF%90%E8%90%A5-f97316?style=flat-square" /><br />
+      <sub>负责基础设施运行、环境维护与平台稳定性保障。</sub><br /><br />
+      <a href="https://github.com/CHUNXIAOKO">
+        <img alt="GitHub CHUNXIAOKO" src="https://img.shields.io/badge/GitHub-CHUNXIAOKO-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td align="center" width="25%">
       <img src="./assets/freeanime-avatar.svg" width="96" height="96" alt="Freeanime.org" /><br />
       <strong>Freeanime.org</strong><br />
-      <sub>组织与域名持有者</sub><br />
-      <sub><code>Organization Owner</code></sub>
+      <img alt="组织与域名" src="https://img.shields.io/badge/%E7%BB%84%E7%BB%87%E4%B8%8E%E5%9F%9F%E5%90%8D-7c3aed?style=flat-square" /><br />
+      <sub>负责组织持有、域名管理与核心资源归属维护。</sub><br /><br />
+      <a href="https://www.maishanzero.com">
+        <img alt="Website Freeanime.org" src="https://img.shields.io/badge/Website-maishanzero.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
@@ -135,14 +150,14 @@ Golang · PHP · Node.js · Next.js · JavaScript · TypeScript · React · Vue 
 <a id="english-profile"></a>
 
 <div align="center">
-  <img src="./assets/banner-en.svg" alt="Maishan Inc English Banner" width="100%" />
+  <img src="./assets/banner-en.svg" alt="Maishan Inc. English Banner" width="100%" />
 </div>
 
 ## English Profile
 
 > Focused on open-source products, modern engineering, and network backend systems.
 
-Maishan Inc builds practical software across email systems, search tools, automation workflows, web applications, and backend infrastructure.  
+Maishan Inc. builds practical software across email systems, search tools, automation workflows, web applications, and backend infrastructure.  
 The goal is clear: ship faster, engineer better, and keep products useful in real operating environments.
 
 ## Contact
@@ -184,30 +199,45 @@ Golang · PHP · Node.js · Next.js · JavaScript · TypeScript · React · Vue 
         <img src="https://github.com/Maishan-SecauDit.png?size=120" width="96" height="96" alt="SecauDit" /><br />
         <strong>SecauDit</strong>
       </a><br />
-      <sub>Head of Security and Audit</sub><br />
-      <sub><code>secaudit@maishanzero.com</code></sub>
+      <img alt="Security and Audit" src="https://img.shields.io/badge/Security%20%26%20Audit-0f766e?style=flat-square" /><br />
+      <sub>Leads security reviews, risk analysis, and baseline protection for open-source systems.</sub><br /><br />
+      <a href="mailto:secaudit@maishanzero.com">
+        <img alt="Email SecauDit" src="https://img.shields.io/badge/Email-secaudit%40maishanzero.com-334155?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a><br />
+      <a href="https://github.com/Maishan-SecauDit">
+        <img alt="GitHub SecauDit" src="https://img.shields.io/badge/GitHub-Maishan--SecauDit-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/raininlab">
         <img src="https://github.com/raininlab.png?size=120" width="96" height="96" alt="Raininlab" /><br />
         <strong>Raininlab</strong>
       </a><br />
-      <sub>Head of Trust and Safety</sub><br />
-      <sub><code>github.com/raininlab</code></sub>
+      <img alt="Trust and Safety" src="https://img.shields.io/badge/Trust%20%26%20Safety-0369a1?style=flat-square" /><br />
+      <sub>Leads trust governance, content safety, and secure collaboration standards.</sub><br /><br />
+      <a href="https://github.com/raininlab">
+        <img alt="GitHub Raininlab" src="https://img.shields.io/badge/GitHub-raininlab-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/CHUNXIAOKO">
         <img src="https://github.com/CHUNXIAOKO.png?size=120" width="96" height="96" alt="CHUN XIAO KO" /><br />
         <strong>CHUN XIAO KO</strong>
       </a><br />
-      <sub>Head of Infrastructure Operations</sub><br />
-      <sub><code>github.com/CHUNXIAOKO</code></sub>
+      <img alt="Infrastructure Operations" src="https://img.shields.io/badge/Infrastructure%20Ops-f97316?style=flat-square" /><br />
+      <sub>Leads infrastructure operations, environment maintenance, and platform stability.</sub><br /><br />
+      <a href="https://github.com/CHUNXIAOKO">
+        <img alt="GitHub CHUNXIAOKO" src="https://img.shields.io/badge/GitHub-CHUNXIAOKO-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td align="center" width="25%">
       <img src="./assets/freeanime-avatar.svg" width="96" height="96" alt="Freeanime.org" /><br />
       <strong>Freeanime.org</strong><br />
-      <sub>Organization and Domain Holder</sub><br />
-      <sub><code>Organization Owner</code></sub>
+      <img alt="Organization and Domain" src="https://img.shields.io/badge/Organization%20%26%20Domain-7c3aed?style=flat-square" /><br />
+      <sub>Maintains organization ownership, domain assets, and core resource stewardship.</sub><br /><br />
+      <a href="https://www.maishanzero.com">
+        <img alt="Website Freeanime.org" src="https://img.shields.io/badge/Website-maishanzero.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
